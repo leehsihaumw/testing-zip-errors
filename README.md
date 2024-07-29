@@ -5,7 +5,6 @@
 let there_be_light
 
 ```
-difference?
 
 ```js
 
